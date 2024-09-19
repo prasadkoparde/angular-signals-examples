@@ -12,7 +12,7 @@ import { MatInputModule } from '@angular/material/input';
   changeDetection: ChangeDetectionStrategy.OnPush
 })
 export default class SignalExample5Component {
-  username = model('Sonu Sindhu');
+  username = model('Prasad Koparde');
 
   // updateUsername(name: string) {
   //   this.username.set(name);

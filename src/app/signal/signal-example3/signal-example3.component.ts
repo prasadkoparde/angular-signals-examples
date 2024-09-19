@@ -11,7 +11,7 @@ import { MatInputModule } from '@angular/material/input';
   imports: [MatFormFieldModule, MatInputModule]
 })
 export default class SignalExample3Component {
-  name = signal('Sonu Sindhu');
+  name = signal('Kops is here!');
 
   updateName(name: string) {
     this.name.set(name);
